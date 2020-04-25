@@ -1,0 +1,20 @@
+.logo{
+  width: 200px;
+  height: 200px;
+}
+.call{
+  width: 200px;
+  height: 200px;
+}
+a {
+  color: yellow;
+}
+.Bckgrnd{
+  margin: 0;
+  padding: 5%;
+  background: #ff1e56;
+}
+.Kard{
+  background: white;
+  padding: 5%;
+}
